@@ -18,7 +18,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=cabdikariim242&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AbdikarimDev&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -56,19 +56,19 @@
 
 ## 📊 GitHub Stats
 <div align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=cabdikariim242&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="420" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.15);" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabdikariim242&layout=compact&theme=radical" alt="Top Languages" width="320" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.12);"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdikarimDev&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="420" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.15);" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdikarimDev&layout=compact&theme=radical" alt="Top Languages" width="320" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.12);"/>
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cabdikariim242&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AbdikarimDev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cabdikariim242&theme=radical&no-frame=true&row=1&column=5" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdikarimDev&theme=radical&no-frame=true&row=1&column=5" alt="Trophies"/>
 </p>
 
 ---
