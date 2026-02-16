@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:abdikarim.dev01@gmail.com">
+  <a href="mailto:abdikarim.myworks@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://abdikarimDev.vercel.app/">
@@ -82,7 +82,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:abdikarim.dev01@gmail.com">
+  <a href="mailto:abdikarim.myworks@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://abdikarimDev.vercel.app/">
