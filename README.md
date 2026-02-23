@@ -56,8 +56,8 @@
 
 ## 📊 GitHub Stats
 <div align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdikarimDev&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="420" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.15);" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdikarimDev&layout=compact&theme=radical" alt="Top Languages" width="320" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.12);"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cabdikariim242&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="420" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.15);" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabdikaiim242&layout=compact&theme=radical" alt="Top Languages" width="320" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.12);"/>
 </div>
 
 <p align="center">
