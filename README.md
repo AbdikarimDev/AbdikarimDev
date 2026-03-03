@@ -15,6 +15,10 @@
 </p>
 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180" alt="Coder Vibe"/>
+</p>
+
 
 <p align="center">
   <img align="right" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" />
