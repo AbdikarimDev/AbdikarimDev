@@ -14,11 +14,10 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="Hello Cat"/>
 </p>
 
-
-<p align="center">
+ <p align="center">
+  <img src="https://typograssy.deno.dev/api?text=Welcome+to+AbdikarimDev's+GitHub!" alt="Cyberpunk Neon Banner" />
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180" alt="Coder Vibe"/>
 </p>
-
 
 <p align="center">
   <img align="right" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" />
@@ -65,8 +64,4 @@
   <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> |
   <a href="https://twitter.com/your-twitter">Twitter</a>
 </p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180" alt="Coder Vibe"/>
-</p>
+ 
