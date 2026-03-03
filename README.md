@@ -77,7 +77,13 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake Gif" />
 </p>
 
+<p align="center">
+  <img src="https://typograssy.deno.dev/api?text=Welcome+to+AbdikarimDev's+GitHub!" alt="Typograssy Header" />
+</p>
 
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=AbdikarimDev" alt="GitHub Contribution Snake" />
+</p>
 
 ## 🏆 Trophies 
 <p align="center">
