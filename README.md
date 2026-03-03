@@ -1,8 +1,8 @@
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋+Hey!+I'm+Abdikarim&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff"/>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+clean+%26+responsive+UIs+✦;React+%7C+Vue+%7C+React+Native+Developer;Leveling+up+to+Fullstack+🚀;How+To+Train+Your+Dragon+fan+🐉" alt="Typing SVG"/>
-</p>
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9966EB&width=700&lines=Hey,+I'm+Abdikarim!;Front-End+Developer+%7C+Aspiring+Fullstack;Let's+Build+Awesome+Apps!" alt="Typing SVG"/>
+</h1>
 
 <p align="center">
   <a href="mailto:abdikarim.myworks@gmail.com">
