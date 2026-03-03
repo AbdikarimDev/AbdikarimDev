@@ -66,9 +66,9 @@
 
 ---
 
-## 🏆 Trophies
+## 🏆 Trophies 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdikarimDev&theme=radical&no-frame=true&row=1&column=5" />
+  <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=AbdikarimDev&theme=radical&no-frame=true&row=1&column=5" />
 </p>
 
 ---
