@@ -1,6 +1,5 @@
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:a855f7&height=220&section=header&text=Abdikarim&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=fff&desc=Front-End%20Developer%20→%20Fullstack%20in%20Progress&descSize=20&descAlignY=58&descColor=e9d5ff"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋+Hey!+I'm+Abdikarim&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff"/>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+clean+%26+responsive+UIs+✦;React+%7C+Vue+%7C+React+Native+Developer;Leveling+up+to+Fullstack+🚀;How+To+Train+Your+Dragon+fan+🐉" alt="Typing SVG"/>
 </p>
