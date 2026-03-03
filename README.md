@@ -47,7 +47,7 @@ const abdikarim = {
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,git,github,vscode,nodejs,express,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,git,github,vscode,nodejs,express,pinia,figma&perline=7" />
 </p>
 
 <p align="center">
@@ -91,12 +91,14 @@ Fullstack Projects ████████████████████ 
 ```
 
 ---
-
+```
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdikarimDev&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 </p>
+
+```
 
 ---
 ## 📈 Neon Contribution Snake
