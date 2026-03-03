@@ -58,29 +58,7 @@
 <div align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdikarimDev's projects&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="420" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.15);" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdikarimDev's projects&layout=compact&theme=radical" alt="Top Languages" width="320" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.12);"/>
-</div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdikarimDev&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=AbdikarimDev" alt="Contribution Snake for AbdikarimDev" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake Gif" />
-</p>
-
-<p align="center">
-  <img src="https://typograssy.deno.dev/api?text=Welcome+to+AbdikarimDev's+GitHub!" alt="Typograssy Header" />
-</p>
-
+</div>## 📈 Contribution Snake
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=AbdikarimDev" alt="GitHub Contribution Snake" />
 </p>
