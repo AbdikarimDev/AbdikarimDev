@@ -1,110 +1,4 @@
-Skip to content
 
-
-
-1. AbdikarimDev
-2. AbdikarimDev
-
-
-
-
-
-
-Repository navigation
-1.  Code  Issues  Pull requests  Actions  Projects  Wiki  Security  Insights  Settings
-
-
-
-Files
-
-
-
-
-t
-
-
-*    .github
-*   README.md
-
-AbdikarimDev/AbdikarimDev is a special repository: its README.md will appear on your profile!
-1. AbdikarimDev
-/
-README.md
-in
-main
-* Edit
-* Preview
-Indent mode
-SpacesTabs
-
-Indent size
-248
-
-Line wrap mode
-No wrapSoft wrap
-
-Editing README.md file contents
-
-
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-55
-56
-57
-58
-59
 <!-- Animated Typing Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋+Hey!+I'm+Abdikarim&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff"/>
 
