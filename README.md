@@ -73,6 +73,11 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=AbdikarimDev" alt="Contribution Snake for AbdikarimDev" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake Gif" />
+</p>
+
+
 
 ## 🏆 Trophies 
 <p align="center">
