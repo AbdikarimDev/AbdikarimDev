@@ -91,14 +91,6 @@ Fullstack Projects ████████████████████ 
 ```
 
 ---
-```
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdikarimDev&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-</p>
-
-```
 
 ---
 ## 📈 Neon Contribution Snake
