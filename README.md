@@ -65,6 +65,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://typograssy.deno.dev/api?text=Hello%20World%20this%20is%20abdikarimDev%20welcome%20to%20my%20github" alt="Typograssy custom text" />
+</p>
+
 
 ## 🏆 Trophies 
 <p align="center">
