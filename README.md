@@ -93,17 +93,10 @@ Fullstack Projects ████████████████████ 
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdikarimDev/AbdikarimDev/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdikarimDev/AbdikarimDev/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbdikarimDev/AbdikarimDev/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-> ⚠️ To enable the snake animation, add a GitHub Action — [here's how](https://github.com/Platane/snk)
-
+## 📈 Neon Contribution Snake
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=AbdikarimDev" alt="Neon Contribution Snake" />
+</p>
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:6d28d9&height=120&section=footer&animation=fadeIn"/>
