@@ -61,7 +61,7 @@ const abdikarim = {
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,git,github,vscode,nodejs,express,pinia,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,git,github,vscode,nodejs,firebase,pinia,figma&perline=7" />
 </p>
 
 <p align="center">
