@@ -56,7 +56,7 @@ const abdikarim = {
 | 🌐 Portfolio v2 | React + TailwindCSS | 🟡 Upgrading |
 | 📊 Dashboard System | Vue + TailwindCSS + Pinia | 🟢 In Progress |
 | 🏗️ Landing Pages | React/Vue + TailwindCSS | 🟢 In Progress |
-| 🔧 laravel 🔵 Learning |
+| 🔧 laravel | Node.js + Express + MongoDB   | 🔵 Learning |
 
 ## 🧰 Tech Stack
 
