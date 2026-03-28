@@ -31,6 +31,7 @@ const abdikarim = {
   goal:      "Ship products people love 🚀",
   funFact:   "How To Train Your Dragon is objectively peak cinema 🐉"
 };
+```
 🔥 What I'm Building Right Now
 Project	Stack	Status
 📱 Mobile App	React Native + Expo	🟢 In Progress
@@ -50,4 +51,3 @@ Databases (SQL/NoSQL) █████░░░░░░░░░░░░░░�
 Fullstack Projects ████████████████████ soon™️ 🚀
 📈 Neon Contribution Snake
 <p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=AbdikarimDev" alt="Neon Contribution Snake" /> </p> <p align="center"> <a href="mailto:abdikarim.myworks@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://abdikarimDev.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/abdikarim-dev-b6a94b388/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <img src="https://komarev.com/ghpvc/?username=AbdikarimDev&label=Profile+Views&color=7c3aed&style=for-the-badge"/> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:6d28d9&height=120&section=footer&animation=fadeIn"/>
-```
