@@ -20,7 +20,7 @@
 ---
 
 ## 👨‍💻 About Me
-
+```
 const abdikarim = {
   role:      "Front-End Developer → Fullstack",
   focus:     [
@@ -49,7 +49,7 @@ const abdikarim = {
   funFact:   "How To Train Your Dragon is objectively peak cinema 🐉"
 };
 ---
-
+```
 ## 🔥 What I'm Building Right Now
 
 | Project | Stack | Status |
