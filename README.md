@@ -52,11 +52,11 @@ const abdikarim = {
 
 | Project | Stack | Status |
 |---|---|---|
-| 📱 Mobile App | React Native + Expo | 🟢 In Progress |
+| 📱 Mobile App | React Native + Expo + TypeScript | 🟢 In Progress |
 | 🌐 Portfolio v2 | React + TailwindCSS | 🟡 Upgrading |
-| 🔧 Backend APIs | Node.js + Express | 🔵 Learning |
-
----
+| 📊 Dashboard System | Vue + TailwindCSS + Pinia | 🟢 In Progress |
+| 🏗️ Landing Pages | React/Vue + TailwindCSS | 🟢 In Progress |
+| 🔧 laravel 🔵 Learning |
 
 ## 🧰 Tech Stack
 
