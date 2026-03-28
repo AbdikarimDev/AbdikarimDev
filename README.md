@@ -21,17 +21,33 @@
 
 ## 👨‍💻 About Me
 
-```javascript
 const abdikarim = {
   role:      "Front-End Developer → Fullstack",
-  focus:     ["Clean UIs", "Mobile Apps", "Backend APIs"],
-  currently: ["React Native 📱", "TypeScript", "Node.js + Express"],
-  stack:     ["Vue", "React", "TailwindCSS", "Pinia", "Git"],
-  goal:      "Ship products people love 🚀",
+  focus:     [
+    "Clean & responsive UIs", 
+    "Mobile Apps", 
+    "Dashboards & Admin Systems", 
+    "Landing Pages", 
+    "Backend APIs"
+  ],
+  currently: [
+    "React Native 📱", 
+    "TypeScript", 
+    "Node.js + Express", 
+    "TailwindCSS & Vue/React for web"
+  ],
+  stack:     [
+    "Vue", 
+    "React", 
+    "React Native", 
+    "TailwindCSS", 
+    "Pinia", 
+    "Git & GitHub", 
+    "Node.js + Express"
+  ],
+  goal:      "Build complete systems and apps that people love 🚀",
   funFact:   "How To Train Your Dragon is objectively peak cinema 🐉"
 };
-```
-
 ---
 
 ## 🔥 What I'm Building Right Now
