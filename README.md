@@ -27,13 +27,12 @@ const abdikarim = {
     "Clean & responsive UIs", 
     "Mobile Apps", 
     "Dashboards & Admin Systems", 
-    "Landing Pages", 
-    "Backend APIs"
+    "Landing Pages",
   ],
   currently: [
     "React Native 📱", 
     "TypeScript", 
-    "Node.js + Express", 
+    "firebase", 
     "TailwindCSS & Vue/React for web"
   ],
   stack:     [
@@ -43,10 +42,9 @@ const abdikarim = {
     "TailwindCSS", 
     "Pinia", 
     "Git & GitHub", 
-    "Node.js + Express"
+    "firebase"
   ],
   goal:      "Build complete systems and apps that people love 🚀",
-  funFact:   "How To Train Your Dragon is objectively peak cinema 🐉"
 };
 ---
 ```
