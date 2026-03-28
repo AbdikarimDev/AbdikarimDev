@@ -92,11 +92,13 @@ const abdikarim = {
 ## 📈 Fullstack Roadmap
 
 ```
-Front-End ████████████████████ 85% ✅
-TypeScript ████████████░░░░░░░░ 60% 🔨
-React Native ███████████████░░░░░ 70% 🔨
-Node.js + Express ████████░░░░░░░░░░░░ 40% 🔧
-Databases (SQL/NoSQL) █████░░░░░░░░░░░░░░░ 25% 🔭
+Front-End ████████████████████ 99% ✅
+TypeScript █████████████░░░░░░ 85% 🔨
+React Native ████████████████░░ 95% 🔨
+Vue + Pinia █████████████░░░░░░ 70% 🔨
+Laravel █████████░░░░░░░ 50% 🔧
+Databases (SQL/NoSQL) ███████░░░░░░░░░ 35% 🔭
+Dashboards & Landing Pages ████████████░░░ 70% 🔨
 Fullstack Projects ████████████████████ soon™️ 🚀
 ```
 
