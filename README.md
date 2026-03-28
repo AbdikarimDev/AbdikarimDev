@@ -20,7 +20,7 @@
 ---
 
 ## 👨‍💻 About Me
-
+```
 const abdikarim = {
   role:      "Front-End Developer → Fullstack",
   focus:     [
@@ -47,6 +47,7 @@ const abdikarim = {
   goal:      "Build complete systems and apps that people love 🚀",
 };
 ---
+```
 ## 🔥 What I'm Building Right Now
 
 | Project | Stack | Status |
